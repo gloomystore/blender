@@ -40,5 +40,5 @@ next-env.d.ts
 blender
 .svn
 
-.blend
-.blend1
+*.blend
+*.blend1
